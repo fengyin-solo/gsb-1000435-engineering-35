@@ -1,3 +1,4 @@
+# 运行期依赖（生产镜像只装这个）
 fastapi>=0.110
 uvicorn[standard]>=0.29
 pydantic>=2.6
